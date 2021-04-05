@@ -6,4 +6,4 @@ I'm Nprime! a CS engineering student at [polytechnique (cm)](www.polytechnique.c
 - 💬 Ask me about memes
 - 📫 How to reach me: https://t.me/nprime496
 - 😄 Pronouns: should not be offensive (beware! it's a trick)
-- ⚡ A free smile : A user interface is like a joke, if you have to explain it, it's not that good (_Martin Leblanc_)
+- ⚡ A free smile : *" A user interface is like a joke, if you have to explain it, it's not that good "* (Martin Leblanc)
