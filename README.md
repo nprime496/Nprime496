@@ -5,4 +5,4 @@ I'm Nprime! a CS engineering student at [polytechnique (cm)](https://www.polytec
 - 🔭 I’m currently working on building myself
 - 💬 Ask me about memes
 - 📫 reach me: https://t.me/nprime496
-- ⚡ A free smile : *" A user interface is like a joke, if you have to explain it, it's not that good. "* (Martin Leblanc)
+- ⚡ : *" Computer Science is no more about computers than Astronomy is about telescopes. "* (Edsger Dijkstra)
