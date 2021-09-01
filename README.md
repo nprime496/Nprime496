@@ -2,7 +2,7 @@
 
 
 
-hey you, I'm Nprime! a CS engineering student at [polytechnique (cm)](https://www.polytechnique.cm) interested in understanding and replicating the mechanics of our world, building amazing stuff and more importantly having fun.
+Hey you, I'm Nprime! a CS engineering student at [polytechnique (cm)](https://www.polytechnique.cm) interested in understanding and replicating the mechanics of our world, building amazing stuff and more importantly having fun.
 
 - 🔭 I’m currently working on building myself
 - 🐦️ Follow me on [twitter](https://twitter.com/nprime496)
