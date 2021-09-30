@@ -1,8 +1,7 @@
 ### Hello World ! 👋☺️
 
 
-
-Hey you, I'm Nprime! a CS engineering student at [polytechnique (cm)](https://www.polytechnique.cm) interested in understanding and replicating the mechanics of our world, building amazing stuff and more importantly having fun.
+Hey you, I'm Nprime! Actually student at [Grenoble-Inp ENSIMAG](https://ensimag.grenoble-inp.fr/) 2A ISI, I am an exchange student from [Polytechnic Yaounde ENSPY](https://www.polytechnique.cm) in Cameroon coming to study in France for two years. I was studying computer science broadly in cameroon and came in France to specialize on information systems conception. I have a some background in data science and programming comptetitions.
 
 - 🔭 I’m currently working on building myself
 - 🐦️ Follow me on [twitter](https://twitter.com/nprime496)
