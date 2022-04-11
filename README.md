@@ -1,4 +1,4 @@
-### Hello World ! 👋☺️
+### Hello World
 
 
 I'm Nprime, actually studying information system conception. I have had a lot of learning material about artificial intelligence and Machine Learning. Thus, I have a strong background in programming and data science also some experience with programming competitions.
